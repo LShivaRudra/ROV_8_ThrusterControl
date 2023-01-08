@@ -5,10 +5,8 @@ Checkout the Theory.md file inside the MCS folder. It has all the content requir
 
 The Non-Linear PID model(.slx file) is provided which explains the control system with PID controller.
 
-For the LQR controller based control system, there are three files provided. 
+For the LQR controller based control system, there are two files provided. 
 
-One is the '.m' file that is required to be executed to implement the '.slx' files. 
+One is the '.m' file that is required to be executed to implement the '.slx' file. 
 
-'LQR1.slx' uses a basic LQR controller without any noise added.
-
-'LQR2.slx' involves white noise(check both the models: commented and uncommented in this file)
+'LQR_1.slx' uses a basic LQR controller with any white noise added. Check out both the models made using this controller in the same '.slx file'(one uncommented and the other commented).
