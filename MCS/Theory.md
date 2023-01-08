@@ -1,4 +1,4 @@
-Control of an eight thruster Remotely operated Underwater Vehicle(ROV) model using PID controller.
+Theory
 
 The following is a team project and we aim at physical implementation of the following model (Non-linear) in future. The following content deals with building a PID based control system for a Remotely operated underwater vehicle(ROV). The main challenge in implementing this is because the bot will be prone to many non-linearities underwater. 
 
