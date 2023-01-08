@@ -1,5 +1,5 @@
 # ROV_8_ThrusterControl
-Aim of this project is to control 8 thrusters of an AUV using PID and LQR controllers
+Aim of this project is to control 8 thrusters of an AUV using PID and LQR controllers.
 
 Checkout the Theory.md file inside the MCS folder. It has all the content required to understand this project. 
 
